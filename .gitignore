@@ -1,0 +1,12 @@
+errors/
+sessions/
+cache/
+databases/
+uploads/
+xml_export/
+*.pyc
+*.table
+*.log
+*.zip
+*.rar
+old/
