@@ -1,0 +1,9 @@
+rm pha.zip
+wget https://github.com/zahmee/update/raw/refs/heads/main/pha.zip
+unzip -o -d . pha.zip
+
+
+cd zatca
+re api.zip
+wget https://github.com/zahmee/update/raw/refs/heads/main/api.zip
+unzip -o -d . api.zip
